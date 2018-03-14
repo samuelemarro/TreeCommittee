@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>ca7c9010-0fa8-4017-a89a-98ef963ff059</TargetProject>
+    <FriendlyName>TreeCommittee</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Samuele\AppData\Local\Temp\TreeCommittee_20180225.vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\Samuele\AppData\Local\Temp\TreeCommittee_20180225(2).vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
