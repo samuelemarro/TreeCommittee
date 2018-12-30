@@ -1,7 +1,7 @@
 # TreeCommittee
 
 TreeCommittee is an optimized inference tool that only runs the necessary layers of a neural network.
-This is achieved by splitting the network in "bmodules".
+This is achieved by splitting the network in "modules".
 
 ## Modules
 
